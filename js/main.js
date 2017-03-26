@@ -1,3 +1,3 @@
 Function changeColour (colour) {
-  document.body.backgroundColor = colour;
+  document.body.style.backgroundColor = colour;
 }
