@@ -13,10 +13,10 @@
   position: fixed;
   z-index: 1;
   width: 100%;
-  height: auto;
+  height: 200px;
   color: white;
   margin: 0;
-  padding: 50px;
+  padding: 30px;
 }
 
 h1 {
@@ -39,7 +39,6 @@ p, li {
   background-color: LightCoral;
   margin: 0;
   padding: 50px;
-  display: none;
 }
 
 h2 {
@@ -54,7 +53,6 @@ h2 {
   height: 200px;
   background-size: cover;
   margin: 0;
-  display: none;
 }
 
 .second {
@@ -64,7 +62,6 @@ h2 {
   background-color: LightCoral;
   margin: 0;
   padding: 50px;
-  display: none;
 }
 
 .rest {
@@ -73,6 +70,7 @@ h2 {
   background-color: LightCoral;
   margin: 0;
   padding: 50px;
+  display: none;
 }
 
 h3 {
@@ -83,5 +81,6 @@ h3 {
 
 div {
   border-style: solid;
+  border-color: black;
   border-width: 5px;
 }
