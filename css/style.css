@@ -8,12 +8,16 @@
   background-attachment: fixed;
   position: relative;
   width: 100%;
-  height: 350px;
+  height: 200px;
   color: white;
   font-size: 18pt;
-  font-family: "Harlow Solid", Georgia, serif;
+}
+
+#head.h1 {
+  font-family: "Harlow Solid", Georgia, sans-serif;
 }
 
 #head.p {
   text-align: center;
+  font-family: Arial, sans-serif;
 }
