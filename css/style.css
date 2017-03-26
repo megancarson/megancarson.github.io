@@ -14,15 +14,18 @@
   padding: 50px;
 }
 
-h1.head {
+h1 {
   font-family: Impact, Georgia, sans-serif;
-  font-size: 22pt;
+  font-size: 26pt;
+  letter-spacing: 0.3em;
+  font-weight: bold;
 }
 
-p.head {
+p {
   text-align: left;
   font-family: Arial, sans-serif;
-  font-size: 14pt;
+  font-size: 18pt;
+  line-height: 2.0em;
 }
 
 .first {
@@ -34,15 +37,11 @@ p.head {
   padding: 50px;
 }
 
-h2.first {
+h2 {
   font-family: Impact, Georgia, sans-serif;
-  font-size: 18pt;
-}
-
-p.first {
-  text-align: left;
-  font-family: Arial, sans-serif;
-  font-size: 14pt;
+  font-size: 24pt;
+  letter-spacing: 0.3em;  
+  font-weight: bold;
 }
   
 #login {
@@ -62,16 +61,6 @@ p.first {
   padding: 50px;
 }
 
-h2.second {
-  font-family: Impact, Georgia, sans-serif;
-  font-size: 18pt;
-}
-
-p.second {
-  font-family: Arial, sans-serif;
-  font-size: 14pt;
-}
-
 .rest {
   width: 100%;
   height: auto;
@@ -80,12 +69,9 @@ p.second {
   padding: 50px;
 }
 
-h3.rest {
+h3 {
   font-family: Impact, Georgia, sans-serif;
-  font-size: 16pt;
+  font-size: 22pt;
+  letter-spacing: 0.3em;  
+  font-weight: bold;
 }
-
-p.rest {
-  font-family: Arial, sans-serif;
-  font-size: 14pt;
-}  
