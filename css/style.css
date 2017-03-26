@@ -2,10 +2,6 @@
   box-sizing: border-box;
 }
 
-#intro {
-  
-}
-
 .head {
   background: url("https://www.austinfraser.com/wp-content/uploads/2015/09/FSPLFPQBCZ.jpg") no-repeat top center;
   background-size: cover;
@@ -19,70 +15,7 @@
   padding: 30px;
 }
 
-h1 {
-  font-family: Impact, Georgia, sans-serif;
-  font-size: 26pt;
-  font-weight: bold;
-}
-
-p, li {
-  text-align: left;
-  font-family: Arial, sans-serif;
-  font-size: 14pt;
-  line-height: 1.5em;
-}
-
-.first {
-  float: left;
-  width: 50%;
-  height: 200px;
-  background-color: LightCoral;
-  margin: 0;
-  padding: 50px;
-  top: 250px;
-}
-
-h2 {
-  font-family: Impact, Georgia, sans-serif;
-  font-size: 24pt;
-  font-weight: bold;
-}
-  
-#login {
-  float: right;
-  width: 50%;
-  height: 200px;
-  background-size: contain;
-  margin: 0;
-}
-
-.second {
-  float: left;
-  width: 50%;
-  height: 200px;
-  background-color: LightCoral;
-  margin: 0;
-  padding: 50px;
-}
-
-.rest {
-  width: 100%;
-  height: auto;
-  background-color: LightCoral;
-  margin: 0;
-  padding: 50px;
-  display: none;
-}
-
-h3 {
-  font-family: Impact, Georgia, sans-serif;
-  font-size: 22pt;
-  font-weight: bold;
-}
-
 div {
   border-style: groove;
-  <!---insetoutset--->
-  border-color: black;
-  border-width: 5px;
+  border-width: thick;
 }
