@@ -13,7 +13,7 @@
   position: fixed;
   z-index: 1;
   width: 100%;
-  height: 200px;
+  height: 300px;
   color: white;
   margin: 0;
   padding: 30px;
@@ -39,6 +39,7 @@ p, li {
   background-color: LightCoral;
   margin: 0;
   padding: 50px;
+  top: 300px;
 }
 
 h2 {
