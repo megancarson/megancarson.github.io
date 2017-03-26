@@ -16,6 +16,7 @@
 }
 
 .first {
+  position: relative;
   background-color: LightCoral;
   width: 49%;
   height: auto;
