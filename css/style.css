@@ -26,7 +26,7 @@ p.head {
 .first {
   float: left;
   width: 50%;
-  height: auto;
+  height: 200px;
   background-color: LightCoral;
 }
 
@@ -43,4 +43,40 @@ p.first {
   
 #login {
   float: right;
+  width: 50%;
+  height: 200px;
+  background-size: cover;
 }
+
+.second {
+  float: left;
+  width: 50%;
+  height: 200px;
+  background-color: LightCoral;
+}
+
+h2.second {
+  font-family: "Harlow Solid", Georgia, sans-serif;
+  font-size: 18pt;
+}
+
+p.second {
+  font-family: Arial, sans-serif;
+  font-size: 14pt;
+}
+
+.rest {
+  width: 100%;
+  height: auto;
+  background-color: LightCoral;
+}
+
+h3.rest {
+  font-family: "Harlow Solid", Georgia, sans-serif;
+  font-size: 16pt;
+}
+
+p.rest {
+  font-family: Arial, sans-serif;
+  font-size: 14pt;
+}  
