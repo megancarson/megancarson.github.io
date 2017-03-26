@@ -20,7 +20,7 @@ h1 {
   font-weight: bold;
 }
 
-p {
+p, li {
   text-align: left;
   font-family: Arial, sans-serif;
   font-size: 14pt;
