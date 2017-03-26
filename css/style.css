@@ -10,10 +10,12 @@
   width: 100%;
   height: auto;
   color: white;
+  margin: 0;
+  padding: 50px;
 }
 
 h1.head {
-  font-family: "Harlow Solid", Georgia, sans-serif;
+  font-family: Impact, Georgia, sans-serif;
   font-size: 22pt;
 }
 
@@ -28,10 +30,12 @@ p.head {
   width: 50%;
   height: 200px;
   background-color: LightCoral;
+  margin: 0;
+  padding: 50px;
 }
 
 h2.first {
-  font-family: "Harlow Solid", Georgia, sans-serif;
+  font-family: Impact, Georgia, sans-serif;
   font-size: 18pt;
 }
 
@@ -46,6 +50,7 @@ p.first {
   width: 50%;
   height: 200px;
   background-size: cover;
+  margin: 0;
 }
 
 .second {
@@ -53,10 +58,12 @@ p.first {
   width: 50%;
   height: 200px;
   background-color: LightCoral;
+  margin: 0;
+  padding: 50px;
 }
 
 h2.second {
-  font-family: "Harlow Solid", Georgia, sans-serif;
+  font-family: Impact, Georgia, sans-serif;
   font-size: 18pt;
 }
 
@@ -69,10 +76,12 @@ p.second {
   width: 100%;
   height: auto;
   background-color: LightCoral;
+  margin: 0;
+  padding: 50px;
 }
 
 h3.rest {
-  font-family: "Harlow Solid", Georgia, sans-serif;
+  font-family: Impact, Georgia, sans-serif;
   font-size: 16pt;
 }
 
