@@ -13,7 +13,7 @@
   position: fixed;
   z-index: 1;
   width: 100%;
-  height: 300px;
+  height: 250px;
   color: white;
   margin: 0;
   padding: 30px;
@@ -39,7 +39,7 @@ p, li {
   background-color: LightCoral;
   margin: 0;
   padding: 50px;
-  top: 300px;
+  top: 250px;
 }
 
 h2 {
@@ -52,7 +52,7 @@ h2 {
   float: right;
   width: 50%;
   height: 200px;
-  background-size: cover;
+  background-size: contain;
   margin: 0;
 }
 
@@ -81,7 +81,8 @@ h3 {
 }
 
 div {
-  border-style: solid;
+  border-style: groove;
+  <!---insetoutset--->
   border-color: black;
   border-width: 5px;
 }
