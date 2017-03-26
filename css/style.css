@@ -2,7 +2,7 @@
   
 }
 
-#head {
+.head {
   background: url("https://www.austinfraser.com/wp-content/uploads/2015/09/FSPLFPQBCZ.jpg") no-repeat top center;
   background-size: cover;
   background-attachment: fixed;
@@ -13,11 +13,11 @@
   font-size: 18pt;
 }
 
-#head.h1 {
+h1.head {
   font-family: "Harlow Solid", Georgia, sans-serif;
 }
 
-#head.p {
+p.head {
   text-align: center;
   font-family: Arial, sans-serif;
 }
