@@ -8,20 +8,34 @@
   background-attachment: fixed;
   position: fixed;
   z-index: 1;
-  width: 99%;
+  width: 98%;
   height: 250px;
   color: white;
   margin: 0;
   padding: 30px;
 }
 
-#button, #login, .first, .second, .rest {
+.first {
+  background-color: LightCoral;
+  width: 49%;
+  height: auto;
+  top: 250px;
+  margin:0;
+  padding: 30px;
+}
+
+#button, #login, .second, .rest {
   display: none;
 }
 
 h1 {
   font-family: "Harlow Solid", Impact, sans-serif;
   font-size: 26pt;
+}
+
+h2 {
+  font-family: "Harlow Solid", Impact, sans-serif;
+  font-size: 22pt;
 }
 
 p {
