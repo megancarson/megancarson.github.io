@@ -15,11 +15,11 @@
   padding: 30px;
 }
 
-#login, .first, .second, .rest {
+#button, #login, .first, .second, .rest {
   display: none;
 }
 
 div {
-  border-style: groove;
+  border-style: none;
   border-width: thick;
 }
