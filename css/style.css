@@ -8,7 +8,7 @@
   background-attachment: fixed;
   position: fixed;
   z-index: 1;
-  width: 100%;
+  width: 99%;
   height: 250px;
   color: white;
   margin: 0;
@@ -17,6 +17,16 @@
 
 #button, #login, .first, .second, .rest {
   display: none;
+}
+
+h1 {
+  font-family: "Harlow Solid", Impact, sans-serif;
+  font-size: 26pt;
+}
+
+p {
+  font-family: Arial;
+  font-size: 16pt;
 }
 
 div {
