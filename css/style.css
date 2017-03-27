@@ -33,9 +33,6 @@
   background-size: contain;
   float: right;
   margin: 0;
-  padding: auto;
-  display: block;
-  clear: none;
 }
 
 #button, .second, .rest {
