@@ -67,11 +67,21 @@ p.head {
   background-color: LightCoral;
   width: 49.5%;
   height: auto;
-  top: 250px;
+  top: 630px;
   margin:0;
   padding: 10px;
   float: left;
   display: inline-block; 
+}
+
+.restTwo {
+  position: relative;
+  background-color: LightCoral;
+  width: 49.5%;
+  height: auto;
+  top: 630px;
+  padding: 10px;
+  display: inline-block;
 }
 
 #button {
