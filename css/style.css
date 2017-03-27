@@ -25,7 +25,15 @@
   padding: 30px;
 }
 
-#button, #login, .second, .rest {
+#login {
+  position: relative;
+  width: 49%;
+  height: auto;
+  background-size: contain;
+  float: right;
+}
+
+#button, .second, .rest {
   display: none;
 }
 
