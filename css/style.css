@@ -66,8 +66,8 @@ p.head {
   position: relative;
   background-color: LightCoral;
   width: 49.5%;
-  height: auto;
-  top: 630px;
+  height: 500px;
+  top: 380px;
   margin:0;
   padding: 10px;
   float: left;
@@ -78,14 +78,21 @@ p.head {
   position: relative;
   background-color: LightCoral;
   width: 49.5%;
-  height: auto;
-  top: 630px;
+  height: 500px;
+  top: 380px;
   padding: 10px;
   display: inline-block;
 }
 
 #button {
-  display: none;
+    background-color: -webkit-linear-gradient(LightCoral, MediumTurquoise)
+    border: none;
+    color: black;
+    padding: 150px 300px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16pt;
 }
 
 h1 {
