@@ -1,3 +1,4 @@
-Function changeColour(colour) {
-  document.body.style.backgroundColor = colour;
+function setColor(body, MediumTurquoise)
+{
+    body.style.backgroundColor = MediumTurquoise;
 }
