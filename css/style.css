@@ -25,17 +25,7 @@
   padding: 30px;
 }
 
-#login {
-  position: relative;
-  top: 250px;
-  width: 49%;
-  height: auto;
-  background-size: contain;
-  float: right;
-  margin: 0;
-}
-
-#button, .second, .rest {
+#button, #login, .second, .rest {
   display: none;
 }
 
