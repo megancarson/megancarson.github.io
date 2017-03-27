@@ -21,7 +21,7 @@ p.head {
 
 .first {
   position: relative;
-  <!--background-color: LightCoral;-->
+  background-color: LightCoral;
   width: 49.5%;
   height: 250px;
   top: 250px;
@@ -33,7 +33,7 @@ p.head {
 
 .second {
   position: relative;
-  <!--background-color: LightCoral;-->
+  background-color: LightCoral;
   width: 49.5%;
   height: 250px;
   top: 250px;
@@ -62,7 +62,7 @@ p.head {
 
 .restOne {
   position: relative;
-  <!--background-color: LightCoral;-->
+  background-color: LightCoral;
   width: 49.5%;
   height: 400px;
   top: 250px;
@@ -74,7 +74,7 @@ p.head {
 
 .restTwo {
   position: relative;
-  <!--background-color: LightCoral;-->
+  background-color: LightCoral;
   width: 49.5%;
   height: 400px;
   top: 250px;
