@@ -43,10 +43,11 @@ p.head {
 
 #login {
   position: relative;
+  top: 250px;
   width: 49%;
   height: auto;
   background-size: contain;
-  float: right;
+  float: left;
   display: inline-block;
 }
 
