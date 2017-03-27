@@ -62,16 +62,16 @@ p.head {
   padding: 20px;
 }
 
-.rest {
+.restOne {
   position: relative;
   background-color: LightCoral;
-  width: 99%;
-  height: 250px;
+  width: 49.5%;
+  height: auto;
   top: 250px;
-  margin: 0;
+  margin:0;
   padding: 10px;
   float: left;
-  display: inline-block;  
+  display: inline-block; 
 }
 
 #button {
