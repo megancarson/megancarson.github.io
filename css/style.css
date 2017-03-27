@@ -67,7 +67,7 @@ p.head {
   background-color: LightCoral;
   width: 49.5%;
   height: 500px;
-  top: 380px;
+  top: 250px;
   margin:0;
   padding: 10px;
   float: left;
@@ -79,16 +79,16 @@ p.head {
   background-color: LightCoral;
   width: 49.5%;
   height: 500px;
-  top: 380px;
+  top: 250px;
   padding: 10px;
   display: inline-block;
 }
 
 #button {
-    background-color: -webkit-linear-gradient(LightCoral, MediumTurquoise)
+    background-color: -webkit-linear-gradient(#F08080, #48D1CC)
     border: none;
     color: black;
-    padding: 150px 300px;
+    padding: 10px 15px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
