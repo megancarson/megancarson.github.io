@@ -24,6 +24,7 @@
   margin:0;
   padding: 30px;
   float: left;
+  display: inline-block;
 }
 
 .second {
@@ -34,6 +35,7 @@
   top: 250px;
   left: 49%;
   padding: 30px;
+  display: inline-block;
 }
 
 #button, #login, .rest {
@@ -50,7 +52,7 @@ h2 {
   font-size: 22pt;
 }
 
-p {
+p, li {
   font-family: Arial;
   font-size: 16pt;
 }
