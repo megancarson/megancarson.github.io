@@ -23,6 +23,7 @@
   top: 250px;
   margin:0;
   padding: 30px;
+  clear: none;
 }
 
 #login {
@@ -34,7 +35,8 @@
   float: right;
   margin: 0;
   padding: auto;
-  display: block-inline;
+  display: inline;
+  clear: none;
 }
 
 #button, .second, .rest {
