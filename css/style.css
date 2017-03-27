@@ -18,7 +18,7 @@
 .first {
   position: relative;
   background-color: LightCoral;
-  width: 49%;
+  width: 49.5%;
   height: 300px;
   top: 250px;
   margin:0;
@@ -30,7 +30,7 @@
 .second {
   position: relative;
   background-color: LightCoral;
-  width: 49%;
+  width: 49.5%;
   height: 300px;
   top: 250px;
   padding: 30px;
