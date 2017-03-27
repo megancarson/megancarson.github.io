@@ -58,7 +58,8 @@ p.head {
   height: auto;
   background-size: contain;
   display: inline-block;  
-  margin: 10;
+  margin: 10px;
+  padding: 20px;
 }
 
 #button, .rest {
