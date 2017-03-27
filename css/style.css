@@ -45,7 +45,7 @@ p.head {
   position: relative;
   top: 250px;
   width: 49%;
-  height: auto;
+  height: 370px;
   background-size: contain;
   float: left;
   display: inline-block;
@@ -55,10 +55,9 @@ p.head {
   position: relative;
   top: 250px;
   width: 49%;
-  height: 380px;
+  height: 370px;
   background-size: contain;
   display: inline-block;  
-  margin: 10px;
 }
 
 .restOne {
