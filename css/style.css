@@ -27,10 +27,14 @@
 
 #login {
   position: relative;
+  top: 250px;
   width: 49%;
   height: auto;
   background-size: contain;
   float: right;
+  margin: 0;
+  padding: auto;
+  display: block-inline;
 }
 
 #button, .second, .rest {
